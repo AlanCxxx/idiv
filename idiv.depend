@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1499252809 source:c:\alanx\testsubleq\idiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1499252809 
+
+1499281610 source:/home/alanx/Documents/AlanC_Ccode_Windows/Multiply/idiv/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
